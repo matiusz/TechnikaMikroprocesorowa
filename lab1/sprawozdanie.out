@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{Pisanie w\233asnego programu \(zadanie 3.5\)}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Wpisanie liczby 0x05 do kom\363rki o adresie 13.}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Wyczyscic zawartosc rejestr\363w R0 i R1, wpisujac do nich 0.}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Wyczyscic zawartosc kom\363rki o adresie 14, wpisujac do niej 0.}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Do rejestru R0 wpisac liczbe 0x6}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{Do rejestru R0 dodac wartosc z pamieci pod adresem 13.}{section.1}% 6
+\BOOKMARK [2][-]{subsection.1.6}{Umiescic wartosc rejestru R0 w pamieci w kom\363rce o adresie 14}{section.1}% 7
+\BOOKMARK [2][-]{subsection.1.7}{Zapetlic wykonywanie programu.}{section.1}% 8
+\BOOKMARK [1][-]{section.2}{Utworzenie nowej instrukcji mikroprocesora.}{}% 9
+\BOOKMARK [2][-]{subsection.2.1}{Do rejestru R1 zapisz wynik dodawania wartosci z rejestr\363w Ro i R1.}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.2}{Na rejestrach R0 i R1 zapisz \(8bitowy\) wynik mnozenia wartosci z rejestr\363w R0 i R1}{section.2}% 11
